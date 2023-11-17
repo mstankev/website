@@ -1,3 +1,3 @@
 document.getElementById('changeTextBtn').addEventListener('click', function() {
-    document.querySelector('p').innerHTML = 'I love you!';
+    document.querySelector('p').innerHTML = 'ты гей!';
 });
